@@ -1,4 +1,4 @@
-# LinkOS
+# LinkOS Aroway Based on Linux Core 
 
 LinkOS, being an operating system, likely offers several benefits, particularly for developers and end-users. Here are some of the potential benefits based on the features you mentioned and common traits of operating systems:
 
