@@ -1,4 +1,4 @@
-# LinkOS Aroway Based on Linux Core 
+# ~~LinkOS Aroway~~ ionOS Quantum Based on Linux Core 
 
 LinkOS, being an operating system, likely offers several benefits, particularly for developers and end-users. Here are some of the potential benefits based on the features you mentioned and common traits of operating systems:
 
@@ -45,7 +45,7 @@ Adaptability: Can be scaled up or down based on the requirements of different de
 Versatility: Suitable for a range of applications, from personal devices to industrial systems.
 These benefits, while speculative, represent a comprehensive view of what a modern operating system like LinkOS might offer, especially when catering to both developers and general users.
 
-## How to run LinkOS installer
+## How to run ~~LinkOS Aroway~~ ionOS Quantum installer
 
 
 Running the installer for an operating system like LinkOS typically involves a series of steps. The process may vary slightly depending on your hardware and the specific version of LinkOS you are installing, but here is a general guideline on how to proceed:
